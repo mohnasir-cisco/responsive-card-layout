@@ -117,6 +117,8 @@ footer {
 
   .card {
     position: static;
+    margin: 0 auto;
+    width: min-content;
   }
 
   header {
