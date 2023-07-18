@@ -118,11 +118,16 @@ footer {
   .card {
     position: static;
     margin: 0 auto;
-    width: calc(100vw - 30px);
     margin: auto;
   }
 
   header {
     max-width: 400px;
+  }
+}
+
+@media (max-width: 400px) {
+  .card {
+    width: calc(100% - 30px);
   }
 }
