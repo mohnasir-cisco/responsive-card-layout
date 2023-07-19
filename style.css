@@ -43,7 +43,7 @@ header p {
   margin: 0 auto;
   text-align: left;
   color: hsl(229, 6%, 66%);
-  height: 100vh;
+  height: 800px;
 }
 
 .card {
